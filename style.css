@@ -1,0 +1,138 @@
+#user {
+  float: left;
+}
+
+.ca {
+  padding: 20px;
+}
+
+#banr_top {
+  height: 60px;
+}
+
+
+
+
+/* תמונה ראשונה מטוס */
+#top {
+  width: 1255px;
+  height: 375px;
+}
+
+/* עיצוב כל המזוודות */
+.prt {
+
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-evenly;
+  flex-direction: row;
+  align-content: center;
+}
+
+
+/* עיצוב מזוודה 1 */
+#m1 {
+  text-align: center;
+  font-family: arial;
+  display: inline-block;
+  border: solid 1px transparent;
+
+}
+
+
+/* עיצוב מזוודה 2 */
+#m2 {
+  text-align: center;
+  font-family: arial;
+  display: inline-block;
+  border: solid 1px transparent;
+
+}
+
+
+
+/* עיצוב מזוודה 3 */
+#m3 {
+  text-align: center;
+  font-family: arial;
+  display: inline-block;
+  border: solid 1px transparent;
+
+}
+
+
+
+/* עיצוב מזוודה 4 */
+#m4 {
+  text-align: center;
+  font-family: arial;
+  display: inline-block;
+  border: solid 1px transparent;
+
+}
+
+
+
+/* עיצוב מזוודה 5 */
+#m5 {
+  text-align: center;
+  font-family: arial;
+  display: inline-block;
+  border: solid 1px transparent;
+
+}
+
+
+/* עיצוב מזוודה 6 */
+#m6 {
+  text-align: center;
+  font-family: arial;
+  display: inline-block;
+  border: solid 1px transparent;
+
+}
+
+h2 {
+  color: aliceblue;
+  background-color: black;
+  font-family: arial;
+}
+
+/* עיצוב h2  */
+#pr {
+  float: left;
+  color: aliceblue;
+  background-color: black;
+ 
+}
+
+/* עיצוב באנר אמצע */
+.banr {
+  width: 1255px;
+  height: 200px;
+}
+
+#abo {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-evenly;
+  flex-direction: row;
+  align-content: center;
+}
+
+#abb {
+  float: left;
+  width: 70%;
+  font-family: arial;
+
+}
+
+#ab {
+
+  float: right;
+  width: 30%;
+  font-weight: bold;
+  font-family: arial;
+  margin-right: 85px;
+  margin-top: 55px;
+}
